@@ -1,2 +1,1 @@
-# mobilcontest
- voxels
+모바일 콘텐츠 대회 복셀
